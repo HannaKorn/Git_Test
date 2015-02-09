@@ -1,5 +1,6 @@
 # Variablendefinition
 #Test Neu
+betrag = 450
 
 # Berechnung der Mehrwertsteuer
 mwst = betrag * 0.19
@@ -8,5 +9,5 @@ mwst = betrag * 0.19
 puts "Mehrwertsteuerberechnung:"
 puts "Betrag: "
 puts betrag
-puts "Mehrwertsteuer: "
+puts "MwSt: "
 puts mwst
