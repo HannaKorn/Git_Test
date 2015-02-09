@@ -1,6 +1,5 @@
 # Variablendefinition
 #Test Neu
-betrag = 320
 
 # Berechnung der Mehrwertsteuer
 mwst = betrag * 0.19
